@@ -2,7 +2,7 @@
     "version": "0.85",
     "main": [
         {
-            "profile_name": "PS2 240P - GVN",
+            "profile_name": "PS2 240P",
             "video_lpf": "9MHz (SDTV)",
             "ypbpr_cs": "Rec. 601",
             "r_f_off": "128",

@@ -2,7 +2,7 @@
     "version": "0.85",
     "main": [
         {
-            "profile_name": "NES - GVN",
+            "profile_name": "NES",
             "video_lpf": "9MHz (SDTV)",
             "ypbpr_cs": "Rec. 601",
             "r_f_off": "128",

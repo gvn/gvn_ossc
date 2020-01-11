@@ -2,6 +2,8 @@
 
 **Custom [OSSC](http://junkerhq.net/xrgb/index.php?title=OSSC) Profiles**
 
+*Generated with [http://pbnl.byethost7.com/ossc/profiles/](http://pbnl.byethost7.com/ossc/profiles/)*
+
 ## PS2 240P
 
 **Intended usage**: PS1 games on PS2
@@ -32,7 +34,7 @@ Software:
 
 Hardware Chain:
 
-- AV Famicom ([RGB Modded](http://etim.net.au/nesrgb/) using stock multi-out, recapped)
+- AV Famicom - HVC-101 ([RGB Modded](http://etim.net.au/nesrgb/) using stock multi-out, recapped)
 - RetroGamingCables Super Nintendo NTSC Famicom SNES RGB SCART PACKAPUNCH PRO CABLE (Stock)
 - OSSC (Firmware v085)
 - Analogue Super NT HDMI Cable

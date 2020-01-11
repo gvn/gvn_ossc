@@ -2,7 +2,7 @@
     "version": "0.85",
     "main": [
         {
-            "profile_name": "",
+            "profile_name": "Default",
             "video_lpf": "Auto",
             "ypbpr_cs": "Rec. 601",
             "r_f_off": "128",
